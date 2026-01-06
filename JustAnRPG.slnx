@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="Engine/Engine.csproj" Id="e09a0618-75a6-4f72-b01c-65122747d26a" />
   <Project Path="JustAnRPG/JustAnRPG.csproj" Id="d3cf74d9-3165-4928-9157-5c58884a6abb" />
 </Solution>
